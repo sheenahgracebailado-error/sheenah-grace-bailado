@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background-image: url("image.jpg");
+  color: #333;
+}
+
+/* Header */
+header {
+  background: rgba(175, 76, 118, 0.65);
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Main content */
+main {
+  padding: 20px;
+}
+
+/* Special box */
+.special-box {
+  background: #FF3B3B00;
+  border: 2px solid #C92DFB70;
+  padding: 15px;
+  margin-top: 20px;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 8px;
+}
+
+/* Footer */
+footer {
+  background: #C60FA29E;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  margin-top: 30px;
+}
